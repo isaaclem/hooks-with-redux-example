@@ -1,0 +1,1 @@
+export const UPDATE_COUNTER_TYPES = 'update_counter_types';
